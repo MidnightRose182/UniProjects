@@ -1,0 +1,1 @@
+This task was to create a tree with the information from PMList and then traverse the tree using different searches (BFS, DFS etc) to print out specific information.

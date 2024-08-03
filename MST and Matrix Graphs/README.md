@@ -1,0 +1,1 @@
+This project involved constructing a graph based on information between places in essex with their distances as edge weights. This could then be used along with algorithms such as Djistrka's and Primm's to compute a minimum spanning tree among other things.

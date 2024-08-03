@@ -1,0 +1,1 @@
+Processing and classification of some EEG data. Information for the experiment can be found in INFO, while the actual code can be found in Data Coding.py. A report of the results can be found in Full Lab Report.

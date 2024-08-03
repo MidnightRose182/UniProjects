@@ -1,0 +1,1 @@
+A simple Java app done as a team project, yet I ended up doing the majority of the work despite my unfamiliarity with Java. We were given a data set and challenged to present it in a viarety of graphs and tables with a GUI that was functional and easy to use.

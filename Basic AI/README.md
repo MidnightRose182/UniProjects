@@ -1,0 +1,1 @@
+A simulation of a tic tac toe game with a basic implementation of a minimaxing algorithm as well as Alpha-Beta pruning
